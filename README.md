@@ -1,27 +1,10 @@
-# Simple Interest Calculator
+# This is the README.md file for the **github-final-project**
 
-This project calculates simple interest based on the principal amount,
-annual interest rate, and time period.
+A calculator that calculates simple interest given principal, annual rate of interest and time period in years.
 
-## Formula
-
-Simple Interest = P × R × T
-
-Where:
-- P = Principal amount
-- R = Annual interest rate
-- T = Time period
-
-## How to Use
-
-Run the calculator and enter:
-1. Principal amount
-2. Annual interest rate
-3. Time period
-
-The calculator will display the simple interest.
-
-## Project Files
-
-- simple-interest.sh — Simple interest calculator script
-- README.md — Project documentation
+Input:
+   p, principal amount
+   t, time period in years
+   r, annual rate of interest
+Output
+   simple interest = p*t*r/100
